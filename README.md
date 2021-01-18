@@ -4,7 +4,7 @@
 
 ### Time limit ⏳
 
-Try not to spend more than **4 hours**.
+Try not to spend more than **2 hours**.
 
 ### The challenge 🎯
 
