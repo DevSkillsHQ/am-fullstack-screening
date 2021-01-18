@@ -2,9 +2,10 @@
 
 **Before you get started, please read [this guide](https://www.notion.so/Get-started-with-your-assignment-dade100d93054a6db1036ce294bdaeb6)** that walks you through how to submit your solution and get help.
 
-### Time limit ⏳
+### Estimated time investment ⏳
 
-Try not to spend more than **2 hours**.
+- Completing the task: **1 hour**
+- Configuring the remote tests: **15 minutes**
 
 ### The challenge 🎯
 
