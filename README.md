@@ -12,8 +12,7 @@
 Your task is to build a Fullstack app that integrates and implements this [API specification](api-specification.yml). The API defines a set of operations for creating and reading account transactions. You can use [editor.swagger.io](https://editor.swagger.io/) to visualize the spec.
 
 #### Frontend mockup 🧱
-
-![Mockup](mockup.png)
+<img src="https://github.com/DevSkillsHQ/am-fullstack-screening/blob/main/mockup.png?raw=true" height="550">
  
 #### Frontend specification 📘
 * There's a form with two input fields: Account ID and Amount. Whenever the form is submitted, a new transaction with the collected data should be created on the backend, and the corresponding input fields are cleared. The HTML elements must have the following HTML attributes:
