@@ -17,8 +17,8 @@ jobs:
       - name: Run tests
         uses: cypress-io/github-action@v2
         with:
-          build: yarn run build:fullstack
-          start: yarn run start:fullstack
+          build: npm run build:fullstack
+          start: npm run start:fullstack
           wait-on: ${{ steps.fetchApiUrl.outputs.apiUrl }}
       - uses: actions/upload-artifact@v1
         if: always()
