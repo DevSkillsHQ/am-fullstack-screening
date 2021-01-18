@@ -24,7 +24,7 @@ Your task is to build a Fullstack app that integrates and implements this [API s
 ### The focus areas 🔍
 
 #### Backend
-- **Use a SQLite database as the service datastore.** We want to see how you design your database schema and SQL queries for working with the service data. We suggest using [SQLite](https://www.sqlite.org/index.html) as it doesn't require running a DB server, which simplifies running the tests in the pipeline.
+- **Use a SQLite database as the service datastore.** We want to see how you design your database schema and SQL queries for working with the service data. Pleae use [SQLite](https://www.sqlite.org/index.html) as it doesn't require running a DB server, which simplifies running the tests in the pipeline.
 - **Create a backend service that implements the provided API.** Make sure all predefined API tests pass. It will involve the following:
   - Handling invalid HTTP requests;
   - Creating new transactions;
