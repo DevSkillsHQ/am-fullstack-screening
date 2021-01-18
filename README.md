@@ -36,10 +36,10 @@ Your task is to build a Fullstack app that integrates and implements this [API s
 ### The provided boilerplate 🗂
 * The [service specification](api-specification.yml) in the Open API format.
 * Automated tests to validate your solution. To run locally:
-  * Install the required test dependencies with `yarn install` (please give it some time to download the necessary dependencies).
+  * Install the required test dependencies with `npm install` (please give it some time to download the necessary dependencies).
   * Update the `baseUrl` (where your Frontend will run) and the `apiUrl` (where your Backend will run) in [cypress.json](cypress.json).
   * Run your Fullstack app.
-  * Run the tests with `yarn run test`. Alternatively, Backend tests only: `yarn run test:backend` or Frontend tests only: `yarn run test:frontend`.
+  * Run the tests with `npm run test`. Alternatively, Backend tests only: `npm run test:backend` or Frontend tests only: `npm run test:frontend`.
 
 ### Before submitting your solution ⚠️
 1. Update the `baseUrl` (where your Frontend will run) and the `apiUrl` (where your Backend will run) in [cypress.json](cypress.json).
