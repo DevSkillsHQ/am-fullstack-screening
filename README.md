@@ -28,6 +28,7 @@ Your task is to build a Fullstack app that integrates and implements this [API s
 - **Create a backend service that implements the provided API.** Make sure all predefined API tests pass. It will involve the following:
   - Handling invalid HTTP requests;
   - Creating new transactions;
+  - Fetching the current account balance;
 
 #### Frontend
 - **Integrate with a REST API**. Using the provided API spec, figure out the right service endpoints to use.
